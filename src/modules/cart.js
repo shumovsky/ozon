@@ -15,4 +15,4 @@ const cart = () => {
     closeCartBtn.addEventListener('click', closeCart)
 }
 
-cart();
+export default cart;
